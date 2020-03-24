@@ -30,8 +30,9 @@
 	<dependency>
 	    <groupId>net.dv8tion</groupId>
 	    <artifactId>JDA</artifactId>
-	    <version>4.1.0_97</version>
+	    <version>1.2.1_106</version>
 	</dependency>
+
 	
 	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-parent -->
 	<!-- <dependency>
