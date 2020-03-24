@@ -31,17 +31,34 @@
 	    <artifactId>JDA</artifactId>
 	    <version>1.2.2_139</version>
 	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-parent -->
+	<dependency>
+	    <groupId>org.jflac</groupId>
+	    <artifactId>jflac-parent</artifactId>
+	    <version>1.5.2</version>
+	    <type>pom</type>
+	</dependency>
+	
 	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-codec -->
 	<dependency>
 	    <groupId>org.jflac</groupId>
 	    <artifactId>jflac-codec</artifactId>
 	    <version>1.5.2</version>
 	</dependency>
-	<!-- https://mvnrepository.com/artifact/org.tritonus/tritonus-dsp -->
+	
+	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-examples -->
 	<dependency>
+	    <groupId>org.jflac</groupId>
+	    <artifactId>jflac-examples</artifactId>
+	    <version>1.5.2</version>
+	</dependency>
+	
+	
+	<!-- https://mvnrepository.com/artifact/org.tritonus/tritonus-dsp -->
+	<!-- <dependency>
 	    <groupId>org.tritonus</groupId>
 	    <artifactId>tritonus-dsp</artifactId>
 	    <version>0.3.6</version>
-	</dependency>
+	</dependency> -->
   </dependencies>
 </project>
