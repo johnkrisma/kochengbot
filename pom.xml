@@ -25,34 +25,35 @@
     </plugins>  
   </build>
   <dependencies>
-    <!-- https://mvnrepository.com/artifact/net.dv8tion/JDA -->
+
+	<!-- https://mvnrepository.com/artifact/net.dv8tion/JDA -->
 	<dependency>
 	    <groupId>net.dv8tion</groupId>
 	    <artifactId>JDA</artifactId>
-	    <version>1.1.0_57</version>
+	    <version>4.1.0_97</version>
 	</dependency>
-
+	
 	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-parent -->
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.jflac</groupId>
 	    <artifactId>jflac-parent</artifactId>
 	    <version>1.5.2</version>
 	    <type>pom</type>
 	</dependency>
 	
-	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-codec -->
+	https://mvnrepository.com/artifact/org.jflac/jflac-codec
 	<dependency>
 	    <groupId>org.jflac</groupId>
 	    <artifactId>jflac-codec</artifactId>
 	    <version>1.5.2</version>
 	</dependency>
 	
-	<!-- https://mvnrepository.com/artifact/org.jflac/jflac-examples -->
+	https://mvnrepository.com/artifact/org.jflac/jflac-examples
 	<dependency>
 	    <groupId>org.jflac</groupId>
 	    <artifactId>jflac-examples</artifactId>
 	    <version>1.5.2</version>
-	</dependency>
+	</dependency> -->
 	
 	
 	<!-- https://mvnrepository.com/artifact/org.tritonus/tritonus-dsp -->
